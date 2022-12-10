@@ -3,4 +3,7 @@ console.log("welcome to updates");
 
 let b = "string ";
 
+console.log(b);
+
+
 
