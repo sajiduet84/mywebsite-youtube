@@ -3,5 +3,7 @@ console.log("version history");
 console.log("Welcome to HTML ocurse ");
 
 let a = 100;
+let c  = "JS";
+
 
 
