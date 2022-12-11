@@ -9,6 +9,8 @@ console.log("Sajid mahmood");
 console.log("JS");
 
 console.log("Welcoem to New course");
+let b = "Java";
+
 
 
 
