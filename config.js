@@ -8,5 +8,7 @@ let c  = "JS";
 console.log("Sajid mahmood");
 console.log("JS");
 
+console.log("Welcoem to New course");
+
 
 
