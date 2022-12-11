@@ -6,6 +6,7 @@ let a = 100;
 let c  = "JS";
 
 console.log("Sajid mahmood");
+console.log("JS");
 
 
 
