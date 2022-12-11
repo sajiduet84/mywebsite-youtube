@@ -7,5 +7,6 @@ console.log(b);
 
 console.log("Javascript");
 
+let Arr  = ["Sajid", 34, ];
 
 
