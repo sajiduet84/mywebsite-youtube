@@ -5,5 +5,7 @@ let b = "string ";
 
 console.log(b);
 
+console.log("Javascript");
+
 
 
