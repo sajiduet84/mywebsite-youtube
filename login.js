@@ -8,5 +8,6 @@ console.log(b);
 console.log("Javascript");
 
 let Arr  = ["Sajid", 34, ];
+console.log("welcome to JS")
 
 
